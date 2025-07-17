@@ -19,7 +19,7 @@ Welcome to my personal portfolio, built to showcase my creative and technical jo
 ## 🖼️ Live Preview
 
 Check out the deployed portfolio on GitHub Pages:  
-**🔗 [tamannadubey.github.io/Tamanna-Portfolio](https://tamannadubey.github.io/Tamanna-Portfolio)**
+**🔗 [tamannadubey.github.io/Tamanna-Portfolio](https://github.com/TamannaDubey/Tamanna-Portfolio.git)**
 
 ## 📜 License & Usage
 
